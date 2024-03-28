@@ -1,6 +1,6 @@
 {
-    "name": "@iktakahiro/markdown-it-katex",
-    "version": "4.0.1",
+    "name": "@wangjiezhe/markdown-it-katex",
+    "version": "4.0.2",
     "description": "Fast math support for markdown-it with KaTeX",
     "main": "index.js",
     "scripts": {
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com:iktakahiro/markdown-it-katex.git"
+        "url": "git+ssh://git@github.com:wangjiezhe/markdown-it-katex.git"
     },
     "keywords": [
         "markdown",
@@ -19,14 +19,14 @@
         "markdown-it-plugin",
         "markdown-it"
     ],
-    "author": "Takahiro Ethan Ikeuchi @iktakahiro",
+    "author": "Jiezhe Wang @wangjiezhe",
     "license": "MIT",
     "dependencies": {
-        "katex": "^0.12.0"
+        "katex": "^0.16.0"
     },
     "devDependencies": {
-        "markdown-it": "11.0.0",
-        "markdown-it-testgen": "0.1.6",
-        "tape": "5.0.1"
+        "markdown-it": "^14.0.0",
+        "markdown-it-testgen": "^0.1.6",
+        "tape": "^5.0.1"
     }
 }

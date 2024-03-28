@@ -2,7 +2,7 @@
 
 Add Math to your Markdown
 
-[![Build Status](https://travis-ci.org/iktakahiro/markdown-it-katex.svg?branch=master)](https://travis-ci.org/iktakahiro/markdown-it-katex)
+![Build Status](https://github.com/wangjiezhe/markdown-it-katex/actions/workflows/npm.yml/badge.svg)
 
 [KaTeX](https://github.com/Khan/KaTeX) is a faster alternative to MathJax. This plugin makes it easy to support in your markdown.
 

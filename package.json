@@ -22,7 +22,7 @@
     "author": "Jiezhe Wang @wangjiezhe",
     "license": "MIT",
     "dependencies": {
-        "katex": "^0.16.0"
+        "katex": "0.16.9"
     },
     "devDependencies": {
         "markdown-it": "^14.0.0",
